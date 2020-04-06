@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Capa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 302.36231 302.36221"
+   xml:space="preserve"
+   sodipodi:docname="hot_plain_bread.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   width="80mm"
+   height="80mm"><metadata
+   id="metadata4703"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4701"><linearGradient
+   inkscape:collect="always"
+   id="linearGradient858"><stop
+     style="stop-color:#ff6600;stop-opacity:1;"
+     offset="0"
+     id="stop854" /><stop
+     style="stop-color:#803300;stop-opacity:1"
+     offset="1"
+     id="stop856" /></linearGradient>
+	
+	
+<radialGradient
+   inkscape:collect="always"
+   xlink:href="#linearGradient858"
+   id="radialGradient860"
+   cx="119.0144"
+   cy="176.44963"
+   fx="119.0144"
+   fy="176.44963"
+   r="144.96336"
+   gradientTransform="matrix(0.79124248,0,0,0.41064229,2.1364438,109.20352)"
+   gradientUnits="userSpaceOnUse" /></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="986"
+   id="namedview4699"
+   showgrid="false"
+   inkscape:zoom="1.5200479"
+   inkscape:cx="40.26962"
+   inkscape:cy="122.03888"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Capa_1"
+   inkscape:snap-text-baseline="true"
+   units="mm" />
+<style
+   type="text/css"
+   id="style4209">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#282829;}
+</style>
+
+<style type="text/css">
+   .gufa {
+      animation-name: gufan;
+      animation-duration: 5s;
+      animation-iteration-count: infinite;
+      animation-direction: alternative;
+   }
+
+   @keyframes gufan {
+      0%    {fill: #FFAD1F; fill-opacity:0.8;}
+      50%  {fill: #FFE651; fill-opacity:0.3;}
+      100%  {fill: #FFAD1F; fill-opacity:0.7;}
+   }
+
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   inkscape:groupmode="layer"
+   id="layer3"
+   inkscape:label="Layer 3"><ellipse
+     style="fill:#6c5d53;fill-opacity:1;stroke:none;stroke-width:0.56430572;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path965"
+     cx="130.09457"
+     cy="253.1861"
+     rx="102.46387"
+     ry="25.492619" /></g><g
+   inkscape:groupmode="layer"
+   id="layer2"
+   inkscape:label="Layer 2"><ellipse
+     style="fill:#ffdd55;fill-opacity:1;stroke:none;stroke-width:0.63037705;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="path864"
+     cx="123.81216"
+     cy="195.26552"
+     rx="107.36092"
+     ry="49.872147" /></g><path
+   style="fill:url(#radialGradient860);fill-opacity:1;stroke-width:2.33031726"
+   inkscape:connector-curvature="0"
+   id="path4548"
+   d="m 203.79232,161.46514 c 5.78131,21.8387 -2.31252,41.32916 -2.31252,41.32916 -0.69376,-29.11827 -15.0314,-44.61671 -21.27521,-50.25251 -14.1064,-3.99202 -29.83156,-6.57509 -46.71298,-7.27956 12.48763,25.5959 1.61877,51.66145 1.61877,51.66145 -0.92501,-31.70135 -17.57518,-47.43461 -22.66274,-51.66145 -15.956405,0.9393 -30.987811,3.52237 -44.400444,7.51439 11.100113,24.89143 0.92501,50.01768 0.92501,50.01768 -0.693757,-22.30836 -9.018841,-36.63267 -15.725159,-44.61671 -26.131515,11.03676 -43.012936,27.70932 -43.012936,46.49532 0,32.87547 51.33802,59.64549 114.701169,59.64549 63.36314,0 114.70115,-26.77002 114.70115,-59.64549 -0.23125,-16.9074 -13.87514,-32.40583 -35.84411,-43.20777 z"
+   class="st1 gufa" />
+   <g
+   id="g4556"
+   transform="matrix(2.3125234,0,0,2.3482481,-105.85456,-1928.9453)"
+   style="fill:#ffdd55">
+   <title
+      id="title967">gufa
+   </title>
+		<path
+   style="fill:#ffdd55"
+   inkscape:connector-curvature="0"
+   id="path4550"
+   d="m 119.5,832.6 c 4.1,4.5 2.1,10.2 -0.4,15.2 -1.5,3 -3.8,6.2 -4.1,9.9 -0.4,5.5 5.9,8.1 8.7,9.4 1.3,0.6 -0.9,4.6 -2.1,4.1 -5.7,-2.5 -11.3,-6.3 -8.7,-15.1 1.8,-6.1 11.7,-16.6 6.1,-22.6 -0.9,-1 -0.5,-2 0.5,-0.9 z"
+   class="st1" />
+		<path
+   style="fill:#ffdd55"
+   inkscape:connector-curvature="0"
+   id="path4552"
+   d="m 82.5,828.6 c 4.1,4.5 2.1,10.2 -0.4,15.2 -1.5,3 -3.8,6.2 -4.1,9.9 -0.4,5.5 5.9,8.1 8.7,9.4 1.3,0.6 -0.9,4.6 -2.1,4.1 -5.7,-2.5 -11.3,-6.3 -8.7,-15.1 1.8,-6.1 11.7,-16.6 6.1,-22.6 -0.8,-1.1 -0.5,-2 0.5,-0.9 z"
+   class="st1" />
+		<path
+   style="fill:#ffdd55"
+   inkscape:connector-curvature="0"
+   id="path4554"
+   d="m 99.8,822.8 c 4.6,6.2 2.3,14.2 -0.4,21.1 -1.7,4.3 -4.2,8.6 -4.5,13.9 -0.5,7.7 6.5,11.3 9.7,13.1 1.5,0.8 -1,6.5 -2.3,5.8 -6.3,-3.5 -12.5,-8.8 -9.6,-21.1 2,-8.5 12.9,-23.1 6.8,-31.5 -1.2,-1.5 -0.8,-2.8 0.3,-1.3 z"
+   class="st1" />
+	</g>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<path
+   style="fill:#5c1c11;fill-opacity:1;stroke:none;stroke-width:0.83393633px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+   d="m 42.998665,246.58324 c -0.21006,0.46668 35.635764,19.42927 92.916005,17.05772 50.90132,-2.10744 90.01919,-26.75938 83.02577,-26.59847 -39.67641,0.91286 -63.0852,10.374 -73.13556,9.82986 -47.651625,3.70683 -44.8386,-0.93534 -63.505614,-2.02379 0,0 -59.35733,-20.81462 -52.053776,-8.96254 5.125735,8.31796 12.753175,10.69722 12.753175,10.69722 z"
+   id="path862"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cssccsc" /><g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Layer 1" /></svg>
